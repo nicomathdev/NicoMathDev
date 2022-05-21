@@ -1,6 +1,7 @@
 ![Welcome!](https://github.com/NicoMathDev/NicoMathDev/blob/main/Github%20Cover.png)
 
-### Hi there 👋
+# Who I am?
+I am a student of the bacharelor's degree in mathematics.
 
 
 <!--
