@@ -7,9 +7,12 @@ I work at Bayer, in Crop Science division, with developing new applications for 
 - Data engineering using various databases and SAP.
 - Automated workflow data using Python and Microsoft Flow.
 - Automated of operational tasks in SAP with VBA.
-- Data analytics for decision-marking dashboards using PowerBI and Tableau.
+- Data analytics for decision-marking dashboards using Power BI and Tableau.
 
 
+# My status
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicoMathDev)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
