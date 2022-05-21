@@ -4,16 +4,25 @@
 I am a student of the bachelor's degree in mathematics I love calculus, algebra and statistic. <br />
 My focus in college is modeling and data science.  <br />
 
+## My Job
 I work at Bayer, in Crop Science division, with developing new applications for the operation and strategy teams. I do:
 - Data engineering using various databases and SAP.
 - Automated workflow data using Python and Microsoft Flow.
 - Automated of operational tasks in SAP with VBA.
 - Data analytics for decision-marking dashboards using Power BI and Tableau.
 
+## Facts about me
+- 🔭 I love science from childhood
+- 🎻 I play violin
+- 📚 I love learn
+- 💾 The first programming language I learned was VBA
+- ☕ I like coffe and tea with milk
+- 🪙 I accept Bitcoin
+
 
 # My status
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicoMathDev)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
