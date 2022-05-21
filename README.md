@@ -1,4 +1,4 @@
-
+![Welcome!](https://github.com/NicoMathDev/NicoMathDev/blob/main/Github%20Cover.png)
 
 ### Hi there 👋
 
