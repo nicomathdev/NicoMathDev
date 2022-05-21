@@ -1,4 +1,7 @@
+https://github.com/NicoMathDev/NicoMathDev/issues/1#issue-1244095551
+
 ### Hi there 👋
+
 
 <!--
 **NicoMathDev/NicoMathDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
