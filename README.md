@@ -13,6 +13,7 @@ I work at Bayer, in Crop Science division, with developing new applications for 
 
 ## Facts about me
 - 🔭 I love science from childhood
+- 🥊 Fighter
 - 🎻 I play violin
 - 📚 I love learn
 - 💾 The first programming language I learned was VBA
