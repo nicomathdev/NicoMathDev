@@ -1,7 +1,15 @@
 ![Welcome!](https://github.com/NicoMathDev/NicoMathDev/blob/main/Github%20Cover.png)
 
 # Who I am?
-I am a student of the bacharelor's degree in mathematics.
+I am a student of the bachelor's degree in mathematics I love calculus, algebra and statistic. My focus in college is modeling and data science.  <br />
+I work at Bayer, in Crop Science division, with developing new applications for the operation and strategy teams. I do:
+
+- Data engineering using various databases and SAP.
+- Automated workflow data using Python and Microsoft Flow.
+- Automated of operational tasks in SAP with VBA.
+- Data analytics for decision-marking dashboards using PowerBI and Tableau.
+
+
 
 
 <!--
