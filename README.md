@@ -1,4 +1,5 @@
-https://github.com/NicoMathDev/NicoMathDev/issues/1#issue-1244095551
+
+![Welcome](https://github.com/NicoMathDev/NicoMathDev/issues/1#issue-1244095551)
 
 ### Hi there 👋
 
