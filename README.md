@@ -1,7 +1,7 @@
 ![Welcome!](https://github.com/NicoMathDev/NicoMathDev/blob/main/Github%20Cover.png)
 
 # Who I am?
-Brasilian and Math student, I work with technology development at Bayer in the Crop Science division.
+Brazilian and Math student, I work with technology development at Bayer in the Crop Science division.
 
 ## My Job Skills
 - Python | R | SQL | VBA
