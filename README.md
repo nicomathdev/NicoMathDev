@@ -1,6 +1,6 @@
 ![Welcome!](https://github.com/NicoMathDev/NicoMathDev/blob/main/Github%20Cover.png)
 
-# Who I am?
+# Who I am
 Brazilian and Math student, I work with technology development at Bayer in the Crop Science division.
 
 ## Skills
