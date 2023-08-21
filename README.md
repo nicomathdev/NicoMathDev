@@ -36,7 +36,7 @@ Business Analytics <br>
 ![Power BI](https://github.com/NicoMathDev/NicoMathDev/blob/main/assets/stack/Power%20BI.png)
 ![Tableau](https://github.com/NicoMathDev/NicoMathDev/blob/main/assets/stack/Tableau.png) <br>
 
-Business Analytics <br>
+Low Code <br>
 ![Power Apps](https://github.com/NicoMathDev/NicoMathDev/blob/main/assets/stack/Power%20Apps.png)
 ![Power Automate](https://github.com/NicoMathDev/NicoMathDev/blob/main/assets/stack/Power%20Automate.png) <br>
 
